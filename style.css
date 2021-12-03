@@ -56,3 +56,28 @@ footer ul li {
 
     border-right: 2px solid black;
 }
+
+
+/* Model */
+
+.modal-dialog {
+    min-width: 550px;
+}
+
+.modal-main-text {
+    padding: 2rem 2rem;
+    width: 100%;
+}
+
+.button-custom {
+    display: inline-block;
+    margin: 1rem 0;
+    padding: 1rem 2.5rem;
+
+    background-color: #0060AF;
+    color: white;
+    border: none;
+
+    text-decoration: none;
+
+}
