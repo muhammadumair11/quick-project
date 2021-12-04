@@ -61,7 +61,7 @@ footer ul li {
 /* Model */
 
 .modal-dialog {
-    min-width: 550px;
+    min-width: clamp(300px, 60vw, 550px);
 }
 
 .modal-main-text {
